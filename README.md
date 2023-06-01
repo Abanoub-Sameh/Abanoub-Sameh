@@ -1,8 +1,8 @@
 <!---
 Abanoub-Sameh/Abanoub-Sameh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
----> -->
-<div style="margin:auto;text-align:center;background-color:red"><img src="[https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif](https://static.vecteezy.com/system/resources/previews/005/868/065/original/programmer-working-modern-flat-concept-for-web-banner-design-developer-works-on-part-of-project-codes-and-programs-improves-and-customizes-programs-illustration-with-isolated-people-scene-vector.jpg)" width="100%" /></div>
+---> 
+<div style="margin:auto;text-align:center;background-color:red"><img src="https://static.vecteezy.com/system/resources/previews/005/868/065/original/programmer-working-modern-flat-concept-for-web-banner-design-developer-works-on-part-of-project-codes-and-programs-improves-and-customizes-programs-illustration-with-isolated-people-scene-vector.jpg" width="100%" /></div>
 
 <h1 align="center">Hi 👋, I'm Abanoub Sameh</h1>
 <h3 align="center">A passionate Front-end developer useing Angular</h3>
@@ -35,7 +35,7 @@ You can click the Preview link to take a look at your changes.
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-</p><div style="margin:auto;text-align:center;background-color:red"><img src="https://miro.medium.com/max/1400/1*yw0TnheAGN-LPneDaTlaxw.gif" width="100%" /></div>
+</p><div style="margin:auto;text-align:center;background-color:red"></div>
 
 
 
